@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/no8/app/src/main/res/drawable/dialog_no.xml" value="0.38229166666666664" />
+        <entry key="..\:/no8/app/src/main/res/drawable/dialog_style.xml" value="0.38229166666666664" />
+        <entry key="..\:/no8/app/src/main/res/drawable/dialog_style2.xml" value="0.3764102564102564" />
+        <entry key="..\:/no8/app/src/main/res/drawable/dialog_style3.xml" value="0.38229166666666664" />
+        <entry key="..\:/no8/app/src/main/res/drawable/map_shape.xml" value="0.38229166666666664" />
+        <entry key="..\:/no8/app/src/main/res/drawable/nocolor.xml" value="0.38229166666666664" />
+        <entry key="..\:/no8/app/src/main/res/layout/activity_main.xml" value="0.4194236926360726" />
+        <entry key="..\:/no8/app/src/main/res/layout/command_page.xml" value="0.22" />
+        <entry key="..\:/no8/app/src/main/res/layout/create_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/no8/app/src/main/res/layout/dialog_mode.xml" value="0.36614583333333334" />
+        <entry key="..\:/no8/app/src/main/res/layout/dialog_mode2.xml" value="0.25" />
+        <entry key="..\:/no8/app/src/main/res/layout/dialog_style.xml" value="0.36614583333333334" />
+        <entry key="..\:/no8/app/src/main/res/layout/history_page.xml" value="0.33" />
+        <entry key="..\:/no8/app/src/main/res/layout/login_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/no8/app/src/main/res/layout/message_page.xml" value="0.36614583333333334" />
+        <entry key="..\:/no8/app/src/main/res/layout/prevent_page.xml" value="0.33" />
+        <entry key="..\:/no8/app/src/main/res/layout/record_page.xml" value="0.3707805907172996" />
+        <entry key="..\:/no8/app/src/main/res/layout/recycle_item.xml" value="0.5" />
+        <entry key="..\:/no8/app/src/main/res/layout/sight_page.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
